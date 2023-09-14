@@ -1,4 +1,3 @@
-#apo user id =5222103467 abla userid=6549150812
 
 import configparser
 import pymysql
